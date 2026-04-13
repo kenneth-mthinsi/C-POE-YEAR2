@@ -1,0 +1,19 @@
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.AssemblyInfo.cs
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Cyber Security bot.exe
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Cyber Security bot.deps.json
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Cyber Security bot.runtimeconfig.json
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Cyber Security bot.dll
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Cyber Security bot.pdb
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Se.1DFDDDF5.Up2Date
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.dll
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\refint\Cyber Security bot.dll
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.pdb
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\Cyber Security bot.genruntimeconfig.cache
+C:\Users\Student\source\repos\Cyber Security bot\obj\Debug\net10.0\ref\Cyber Security bot.dll
+C:\Users\Student\source\repos\Cyber Security bot\bin\Debug\net10.0\Assets\Greeting.wav
